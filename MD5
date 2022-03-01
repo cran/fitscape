@@ -1,0 +1,12 @@
+526cc19a0ffc3dbd2bc11232e80d5d95 *DESCRIPTION
+8b2f8e679d20ba187e5af3f0d63b061c *LICENSE
+45cb6d19454d9fb47cb8dbece4764ab8 *NAMESPACE
+8a7f6cdf8d2de1423716200c75dbeebb *R/FitLandDF.R
+4fb0e2ff7ad0c8c948d661775bb52c24 *man/FitLandDF.Rd
+9c7e49725b253285095a8d9352941b4a *man/dims.Rd
+9b71fd0fc0b983b95987b37145b10c0e *man/extract_df.Rd
+d145a4896df2c5c6ffebed7502267116 *man/isFitLandDF.Rd
+e0090891567dc3ebd1d7d0bfb3046aa0 *man/minmax.Rd
+c648af4624ee0741a6dbef3aa1b52151 *man/sdvar.Rd
+d8caf99a492fd390e978bdd282e1e396 *tests/testthat.R
+86e68e5ce036a80192e3ccd8fda5367f *tests/testthat/test-FitLandDF.R
